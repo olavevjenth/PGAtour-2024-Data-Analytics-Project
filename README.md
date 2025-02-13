@@ -4,7 +4,7 @@ This repotisory contains two jupyter notebooks and a datafolder which are relate
 
 1. PGAdata - Folder containing all subdatafiles i used to create the bigger csv files: "PGA_Data_Cleaned.csv" and "PGA_SG_cleaned.csv".
 2. PGA_dataset_2024.ipynb - Contains code that utilizes pandas to merge, clean and create the two csv files. 
-3. PGAtour_2024EDA.ipynb - Contains exploratory data analysis for the datasets to discover patterns within the data and forming theories about the relationship to be discovered later from regressor models
+3. PGAtour_2024EDA.ipynb - Contains exploratory data analysis for the datasets to discover patterns within the data and forming theories about what aspects are the msot important to be the best golfer, for example putting vs driving. These patterns will be discovered later from the help of regressor models in new projects.
 
 
  
